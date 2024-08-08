@@ -1,2 +1,2 @@
-# Celestial-Bodies-Database
-A database of astronomical data, grouped by different subjects
+# Celestial Bodies Database
+This project created a database of celestial bodies in postgresql.
